@@ -1,3 +1,5 @@
-Nitesh Synergy (Nitesh) is building an AI tool that eliminates the need for multiple layers of hierarchy. The system will operate with just a few essential roles: Developer, QA, CEO, and a single level of Controller who acts as a bridge between the CEO and the Tech Lead.
+Nitesh Synergy (Nitesh) is building an AI platform that flattens the organizational hierarchy. The system will operate with only a few essential roles: Developer, QA, CEO, and a single Controller who serves as the bridge between the CEO and the Tech Lead.
 
-We are removing the need for roles like Senior Manager, Manager, Agile Manager, and other similar positions. These roles can effectively be replaced by NiteshSynergy.ai.
+We are eliminating positions such as Senior Manager, Manager, Agile Manager, and similar roles, because their responsibilities can be taken over by NiteshSynergy.ai.
+
+Our next project focuses on reducing wasted AI usage: we want to apply AI for true innovation and real‑time work, not just for minor, isolated tasks.
